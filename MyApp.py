@@ -9,10 +9,10 @@ import matplotlib.pyplot as plt
 np.set_printoptions(suppress=True)
 
 # Load the model
-model = load_model("keras_Model.h5", compile=False)
+model = load_model("/home/ec2-user/image-learning/keras_Model.h5", compile=False)
 
 # Load the labels
-class_names = open("labels.txt", "r").readlines()
+class_names = open("/home/ec2-user/image-learning/labels.txt", "r").readlines()
 
 # Set page title and favicon
 st.set_page_config(
