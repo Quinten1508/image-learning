@@ -1,0 +1,24 @@
+0 shark
+1 turtle
+2 pig
+3 beetle
+4 buffalo
+5 eagle
+6 gorilla
+7 clownfish
+8 unicorn
+9 snake
+10 tiger
+11 cat
+12 monkey
+13 alpaca
+14 deer
+15 hippo
+16 rhino
+17 dog
+18 octopus
+19 fly
+20 prehistoric unicorn
+21 elephant
+22 person
+23 zebra
